@@ -28,7 +28,7 @@
 
 <div align="center">
   <h2>Connect with me</h2>
-  <a href="https://www.linkedin.com/in/yi-xing-122149385">
+  <a href="https://www.linkedin.com/in/y5xing">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:xingyi1145@gamil.com">
